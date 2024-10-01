@@ -1,0 +1,18 @@
+{
+  "name": "your-project",
+  "version": "1.0.0",
+  "description": "Project using JSON Server and ES Modules",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.1",
+    "json-server": "^0.17.0",
+    "nodemon": "^3.1.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
