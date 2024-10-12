@@ -1523,43 +1523,6 @@
       "id": 3
     }
   ],
-  "carts": [
-    {
-      "productId": "d6ccdcb4-dc7a-4ed7-b656-833730d722d8",
-      "quantity": 2,
-      "size": "M",
-      "userId": "3",
-      "createdAt": 1727768161940,
-      "id": 1
-    },
-    {
-      "createdAt": 1727768168515,
-      "id": 2
-    }
-  ],
-  "orders": [
-    {
-      "firstName": "Hoai",
-      "lastName": "Nguyen",
-      "company": "Home",
-      "address": "Da Nang",
-      "aptSuite": "",
-      "city": "Da Nang",
-      "country": "Vietnam",
-      "postalCode": "12122112",
-      "telephone": "12414",
-      "discountCode": "",
-      "products": [
-        {
-          "productId": "5d005da7-2b27-47f4-a650-323d573e7e58",
-          "size": "S",
-          "quantity": 1
-        }
-      ],
-      "userId": 1,
-      "totalAmount": 496.58400000000006,
-      "createdAt": 1727767584755,
-      "id": 1
-    }
-  ]
+  "carts": [],
+  "orders": []
 }
